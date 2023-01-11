@@ -1,0 +1,22 @@
+ul{
+    font-size: 20px;
+
+}
+
+ul>li{
+    display: inline;
+    list-style: none;
+    padding: 20px;
+}
+
+.mix{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(235, 235, 235);
+    padding: 30px;
+    align-items: center;
+
+}
+.middle>img{
+    width:200px;
+}
